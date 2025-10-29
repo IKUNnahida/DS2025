@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\34395\source\repos\Project3\Project3\Calculator.h(21,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(64,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(72,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(100,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(107,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(171,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(179,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(187,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\34395\source\repos\Project3\Project3\源.cpp(206,23): warning C4018: “<”: 有符号/无符号不匹配
+  Project3.vcxproj -> C:\Users\34395\source\repos\Project3\x64\Debug\Project3.exe
